@@ -1,0 +1,13 @@
+c:\users\lenovo\documents\visual studio 2013\Projects\CalculatorSecondType\CalculatorSecondType\bin\Debug\CalculatorSecondType.exe.config
+c:\users\lenovo\documents\visual studio 2013\Projects\CalculatorSecondType\CalculatorSecondType\bin\Debug\CalculatorSecondType.exe
+c:\users\lenovo\documents\visual studio 2013\Projects\CalculatorSecondType\CalculatorSecondType\bin\Debug\CalculatorSecondType.pdb
+c:\users\lenovo\documents\visual studio 2013\Projects\CalculatorSecondType\CalculatorSecondType\obj\Debug\CalculatorSecondType.csprojResolveAssemblyReference.cache
+c:\users\lenovo\documents\visual studio 2013\Projects\CalculatorSecondType\CalculatorSecondType\obj\Debug\App.g.cs
+c:\users\lenovo\documents\visual studio 2013\Projects\CalculatorSecondType\CalculatorSecondType\obj\Debug\CalculatorSecondType_MarkupCompile.cache
+c:\users\lenovo\documents\visual studio 2013\Projects\CalculatorSecondType\CalculatorSecondType\obj\Debug\CalculatorSecondType.g.resources
+c:\users\lenovo\documents\visual studio 2013\Projects\CalculatorSecondType\CalculatorSecondType\obj\Debug\CalculatorSecondType.Properties.Resources.resources
+c:\users\lenovo\documents\visual studio 2013\Projects\CalculatorSecondType\CalculatorSecondType\obj\Debug\CalculatorSecondType.csproj.GenerateResource.Cache
+c:\users\lenovo\documents\visual studio 2013\Projects\CalculatorSecondType\CalculatorSecondType\obj\Debug\CalculatorSecondType.exe
+c:\users\lenovo\documents\visual studio 2013\Projects\CalculatorSecondType\CalculatorSecondType\obj\Debug\CalculatorSecondType.pdb
+C:\Users\Lenovo\Documents\Visual Studio 2013\Projects\CalculatorSecondType\CalculatorSecondType\obj\Debug\Calculator.baml
+C:\Users\Lenovo\Documents\Visual Studio 2013\Projects\CalculatorSecondType\CalculatorSecondType\obj\Debug\Calculator.g.cs
